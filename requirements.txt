@@ -1,0 +1,7 @@
+numpy
+streamlit
+mediapipe
+pillow
+opencv-python-headless
+opencv-python
+opencv-contrib-python
